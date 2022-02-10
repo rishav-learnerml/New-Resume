@@ -560,26 +560,26 @@ button:focus {
     margin-left: 15%;
   }
 
-  #contact-form button[type="submit"]{
+  #contact-form button[type="submit"] {
     margin-left: 10%;
   }
 
-  .footer-icon li{
+  .footer-icon li {
     margin: 0;
   }
-  /* .footer-icon ul{
-    margin-right: 40px;
-  } */
+  #my-name {
+    font-size: 2.5rem;
+  }
   #name-social-container {
     margin-top: 5vh;
-}
-#body-header{
-  height: 64vh;
-}
+  }
+  #body-header {
+    height: 64vh;
+  }
 
-#my-image {
-  margin-left: 23%;
-}
+  #my-image {
+    margin-left: 23%;
+  }
   html {
     font-size: 15px;
   }
